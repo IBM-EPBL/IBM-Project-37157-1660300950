@@ -5,10 +5,10 @@ Reference Demo Link: https://www.youtube.com/watch?v=ROtGGTF4zEU
 
 Team Members :
 
-  Joeshibha.K
+    Joeshibha.K
   
-  Jedidah Berly.B.S
+    Jedidah Berly.B.S
   
-  Ilayanila.C.G
+    Ilayanila.C.G
   
-  Nithila Ruffina.J
+    Nithila Ruffina.J
